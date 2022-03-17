@@ -29,6 +29,8 @@ explain vi command
 |shift + 8|같은 단어를 찾기|
 |u|undo|
 |ctrl + r|redo|
+|visual line + u|소문자로 변경|
+|visual line + U|대문자로 변경|
 
 #### 입력모드
 |단축키|명령어 설명|
